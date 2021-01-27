@@ -13,11 +13,10 @@
 ## ارزیابی ها
 
 ### عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/khaliliprf/PNU_3991_AR/tree/master/Assessment/General/XX_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/khaliliprf/PNU_3991_AR/tree/master/Assessment/General/XX_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/Mostafaabdifar/PNU_3991_AR/blob/main/%D8%A7%D8%B1%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C/XX_CV_CheckList_AR_3991.pdf)
 
 ### اختصاصی
-- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/khaliliprf/PNU_3991_AR/tree/master/Assessment/ResearchAndPresentationMethods/XX_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/Mostafaabdifar/PNU_3991_AR/blob/main/ResearchAndPresentationMethods/XX_WebProgramming_CheckList_AR_3991.pdf)
 
 
 ## درس‌ها
