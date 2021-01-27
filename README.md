@@ -22,4 +22,4 @@
 
 ## درس‌ها
 
-- [ResearchAndPresentationMethods](https://github.com/khaliliprf/PNU_3991_AR/tree/master/ResearchAndPresentationMethods)
+- [ResearchAndPresentationMethods](https://github.com/Mostafaabdifar/PNU_3991_AR)
